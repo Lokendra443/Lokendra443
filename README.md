@@ -7,7 +7,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokendra443&label=Profile%20views&color=0e75b6&style=flat" alt="lokendra443" /> </p>
 
-- 🌱 I’m currently learning **Spring Boot**
 
 - 📫 How to reach me **lokendranath20@gmail.com**
 
