@@ -1,4 +1,3 @@
-![logo](https://github.com/Lokendra443/Lokendra443/blob/main/developer.gif)
 
 <h1 align="center">Hi 👋, I'm Lokendra</h1>
 <h3 align="center">A Passionate Full-Stack Java Developer from Nepal</h3>
